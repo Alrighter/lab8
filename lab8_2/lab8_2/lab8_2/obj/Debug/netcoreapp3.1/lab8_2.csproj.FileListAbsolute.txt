@@ -1,0 +1,13 @@
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\bin\Debug\netcoreapp3.1\lab8_2.exe
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\bin\Debug\netcoreapp3.1\lab8_2.deps.json
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\bin\Debug\netcoreapp3.1\lab8_2.runtimeconfig.json
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\bin\Debug\netcoreapp3.1\lab8_2.runtimeconfig.dev.json
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\bin\Debug\netcoreapp3.1\lab8_2.dll
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\bin\Debug\netcoreapp3.1\lab8_2.pdb
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.csprojAssemblyReference.cache
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.AssemblyInfoInputs.cache
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.AssemblyInfo.cs
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.csproj.CoreCompileInputs.cache
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.dll
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.pdb
+D:\GitHub\lab8\lab8\lab8_2\lab8_2\lab8_2\obj\Debug\netcoreapp3.1\lab8_2.genruntimeconfig.cache

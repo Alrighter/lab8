@@ -21,8 +21,30 @@ namespace lab8_1
 
         public int this[int index]
         {
-            get { return arr[index]; }
-            set { arr[index] = value;}
+            get
+            {
+                try
+                {
+                    return arr[index];
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Invalid index");
+                    throw;
+                }
+            }
+            set
+            {
+                try
+                {
+                    arr[index] = value;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Invalid index");
+                    throw;
+                }
+            }
         }
     }
 }
