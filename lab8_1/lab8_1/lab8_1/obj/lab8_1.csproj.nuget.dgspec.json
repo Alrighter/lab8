@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj": {}
+    "D:\\GitHub\\lab8\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj": {
+    "D:\\GitHub\\lab8\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj",
+        "projectUniqueName": "D:\\GitHub\\lab8\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj",
         "projectName": "lab8_1",
-        "projectPath": "D:\\GitHub\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj",
+        "projectPath": "D:\\GitHub\\lab8\\lab8\\lab8_1\\lab8_1\\lab8_1\\lab8_1.csproj",
         "packagesPath": "C:\\Users\\roma2\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\lab8\\lab8_1\\lab8_1\\lab8_1\\obj\\",
+        "outputPath": "D:\\GitHub\\lab8\\lab8\\lab8_1\\lab8_1\\lab8_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
